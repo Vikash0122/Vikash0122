@@ -18,11 +18,11 @@
 <h2 align="center"> My GitHub Streak:</h2>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vikash0122&theme=radical" alt="Vikash0122" /></p><br/>
 <!-- //algolia  -->
-<h2 align="center"> My GitHub stats:</h2>
+<!-- <h2 align="center"> My GitHub stats:</h2>
 <p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vikash0122&show_icons=true&locale=en&theme=radical" alt="" />
 <img align="center" margin="0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vikash0122&show_icons=true&locale=en&layout=compact&theme=radical" alt="" /></p>
 <br/>
-
+ -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=See%20you%20next%20time🤗.&font=Fira%20Code&center=true&width=440&height=45&color=D93A7C&vCenter=true&size=24"></a>
 </p>
