@@ -5,7 +5,7 @@
 
 * 🌍  I'm based in Bihar, India.
 * ✉️  You can contact me at [vikash01nitp@gmail.com](mailto:vikash01nitp@gmail.com)
-* 🧠  Focussed on enhancing my skills in  **MERN, DSA, C++.**
+* 🧠  Focussed on enhancing my skills in  **MERN, DSA, C++ and CS Fundamentals.**
 
 
 <h3 align="center">Connect with me:</h3>
