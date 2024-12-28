@@ -4,7 +4,7 @@
 </p>
 
 * 🌍  I'm based in Bihar, India.
-* ✉️  You can contact me at [vikash01nitp@gmail.com](mailto:vikashk.ug21.cs@nitp.ac.in)
+* ✉️  You can contact me at [Mail](mailto:vikashk.ug21.cs@nitp.ac.in)
 * 🧠  Focussed on enhancing my skills in  **MERN, DSA, C++ and CS Fundamentals.**
 
 
